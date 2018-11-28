@@ -1,0 +1,28 @@
+body
+{
+    position: absolute;
+    background-color: #339999;   
+    background-repeat: no-repeat;
+}
+body.chmura
+{
+    position: absolute;
+    background-color: #AAAAAA;   
+    background-repeat: no-repeat;
+}
+
+input
+{
+    background-color: green;   
+}
+
+.obrazki
+{
+ width:100px;
+ height:100px;
+}
+
+a:hover
+{
+    color: red;
+}
